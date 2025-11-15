@@ -53,7 +53,7 @@ class Main extends PluginBase {
             return;
         }
 
-        $this->getLogger()->info("Loaded buttons: " . json_encode($buttons));
+        // $this->getLogger()->info("Loaded buttons: " . json_encode($buttons));
 
         $form = new SimpleForm(function(Player $player, $data) use ($buttons) {
             if($data === null) return;
@@ -91,3 +91,4 @@ class Main extends PluginBase {
         $player->sendForm($form);
     }
 }
+
