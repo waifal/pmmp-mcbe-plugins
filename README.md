@@ -5,7 +5,7 @@
 
 <img src="https://i.redd.it/has-anyone-noticed-that-minecraft-is-changing-their-logos-v0-4hdxcn01roxb1.png?width=1936&format=png&auto=webp&s=3516d3eb412eb34711f0394aab0f7c08baf773bd" width="500" alt="Minecraft Bedrock Edition Logo" />
 
-This repository contains all PocketMine-MP plugins created by **waifal14**.
+This repository contains all PocketMine-MP plugins created by **me**.
 
 Each plugin is organized in its own folder with source code, documentation, and resources.
 
