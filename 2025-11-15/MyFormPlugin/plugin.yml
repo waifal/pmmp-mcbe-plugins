@@ -1,0 +1,26 @@
+name: MyFormPlugin
+main: waifal14\MyFormPlugin\Main
+version: 0.0.1
+description: Displays a dynamic form via /myform
+api: [5.0.0]
+
+commands:
+  myform:
+    description: Displays a dynamic form
+    usage: /myform
+    permission: myformplugin.command.myform
+
+  myformreload:
+    description: Reloads the form config
+    usage: /myformreload
+    permission: myformplugin.command.reload
+
+permissions:
+  myformplugin.command.myform:
+    description: Allows usage of /myform
+    default: true
+
+  myformplugin.command.reload:
+    description: Allows reloading of config
+    default: op
+

@@ -1,0 +1,15 @@
+title: "My Form"
+content: "Choose an option:"
+buttons:
+  - label: "Say Hello"
+    message: "Hello, %player%!"
+    run_as: "player"
+
+  - label: "Give Diamond"
+    message: "You received a diamond!"
+    command: "give %player% diamond 1"
+    run_as: "console"
+
+  - label: "Surprise!"
+    message: "You found a secret button!"
+    run_as: "player"
