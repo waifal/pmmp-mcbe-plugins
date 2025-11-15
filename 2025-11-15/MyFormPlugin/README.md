@@ -50,7 +50,7 @@ The plugin uses a YAML configuration file (`config.yml`) located in the plugin's
 ### Example
 
 ```yaml
-title: "My Dynamic Form"
+title: "My Form"
 content: "Choose an option:"
 buttons:
   - text: "Say Hello"
