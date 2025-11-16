@@ -13,10 +13,10 @@ Each plugin is organized in its own folder with source code, documentation, and 
 
 ## 📦 Plugins
 
+*(Future plugins will be added below with their release dates.)*
+
 **2025-11-15:**
    - MyFormPlugin
-
-*(Future plugins will be added below with their release dates.)*
 
 ---
 
